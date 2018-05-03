@@ -1,0 +1,4 @@
+# Variables for playbook
+#
+source: https://artifacts.elastic.co/downloads/beats
+
